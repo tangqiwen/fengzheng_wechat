@@ -17,3 +17,5 @@
   </servlet>
   
   中的“your appid”替换为自己的微信公众号的appid,将“your appsecret”替换为自己的微信公众号的appsecret
+参考文档网址:
+https://www.cnblogs.com/fengzheng/p/5027630.html
